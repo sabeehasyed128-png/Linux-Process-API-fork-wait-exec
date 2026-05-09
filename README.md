@@ -112,7 +112,7 @@ int main()
 ```
 ##OUTPUT
 
-![alt text](image1-1.png)
+![git](image2.png)
 
 # RESULT:
 The programs are executed successfully.
